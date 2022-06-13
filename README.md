@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jhon-erick-vasquez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/jhon-erick-vasquez?trk=profile-badge">Jhon Vásquez</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jhon-erick-vasquez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/jhon-erick-vasquez?trk=profile-badge">Jhon Vásquez</a></div>
+              
               
               
