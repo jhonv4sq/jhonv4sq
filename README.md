@@ -1,5 +1,6 @@
-[![banner.jpg](https://i.postimg.cc/029m0Hnx/banner.jpg)](https://postimg.cc/fkgJwC1g)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonv4sq&label=Profile%20views&color=0e75b6&style=flat" alt="jhonv4sq" /> </p>
+
+[![banner.jpg](https://i.postimg.cc/029m0Hnx/banner.jpg)](https://postimg.cc/fkgJwC1g)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhonv4sq&theme=discord&no-bg=true&no-frame=true" alt="jhonv4sq" /></a><img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/80/latest/20101031232142/Charizard_NB.gif" alt="charizard" width="110" height="110"/> 
 </p>
 
