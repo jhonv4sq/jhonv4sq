@@ -1,8 +1,8 @@
 [![banner.jpg](https://i.postimg.cc/029m0Hnx/banner.jpg)](https://postimg.cc/fkgJwC1g)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonv4sq&label=Profile%20views&color=f43f0c&style=flat" alt="jhonv4sq" /> </p>
+[![](https://visitcount.itsvg.in/api?id=jhonv4sq&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-# Hi there! I'm Jhon 👋
-#### I am a developer passionate about technology and innovation.
+<h1 align="center"> Hi there! I'm Jhon 👋 </h1>
+<h4 align="center"> I am a developer passionate about technology and innovation. </h4>
 
  ## Most Relevant Projects 🌱
 - [**Calorie Calculator to Consume to Reach Your Ideal Weight.**](https://jhonv4sq.github.io/calorie-calculator/ "**Calorie Calculator to Consume to Reach Your Ideal Weight.**")  [repository](https://github.com/jhonv4sq/calorie-calculator "repository") ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
