@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+[![line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/jhonv4sq/jhonv4sq/blob/main/banner.jpg)
 [![banner.jpg](https://github.com/jhonv4sq/jhonv4sq/blob/main/banner.jpg?raw=true)](https://github.com/jhonv4sq/jhonv4sq/blob/main/banner.jpg)
 [![](https://visitcount.itsvg.in/api?id=jhonv4sq&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in) [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-erick-vasquez/)
 
