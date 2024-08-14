@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![banner.jpg](https://i.postimg.cc/029m0Hnx/banner.jpg)](https://postimg.cc/fkgJwC1g)
-[![](https://visitcount.itsvg.in/api?id=jhonv4sq&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jhonv4sq&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in) [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-erick-vasquez/)
+
 
 <h1 align="center"> Hi there! I'm Jhon 👋 </h1>
 <h3 align="center"> I am a developer passionate about technology and innovation. </h3>
