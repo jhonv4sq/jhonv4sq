@@ -6,9 +6,9 @@
 <h1 align="center"> Hi there! I'm Jhon 👋 </h1>
 <h3 align="center"> I am a developer passionate about technology and innovation. </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jhonv4sq&theme=ayu-mirage&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonv4sq&theme=ayu-mirage&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonv4sq&layout=compact&theme=ayu-mirage&hide_border=true" />
 </p>
-
 
  ## Most Relevant Projects 🌱
 - [**Calorie Calculator to Consume to Reach Your Ideal Weight.**](https://jhonv4sq.github.io/calorie-calculator/ "**Calorie Calculator to Consume to Reach Your Ideal Weight.**")  [repository](https://github.com/jhonv4sq/calorie-calculator "repository") ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
